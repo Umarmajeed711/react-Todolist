@@ -1,17 +1,17 @@
-Create React App
+#Create React App
 npx create-react-app app_name
 
-run react app
+#run react app
 npm start
 
-Create Build
+#Create Build
 npm run build
 
-To Install Netlify
+#To Install Netlify
 npm install netlify-cli -g
 
-To Login Netlify
+#To Login Netlify
 netlify login
 
-To Deploy On Netlify
+#To Deploy On Netlify
 netlify deploy --prod# react-Todolist
