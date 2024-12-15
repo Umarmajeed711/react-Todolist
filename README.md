@@ -20,4 +20,7 @@ netlify login
 
 #To Deploy On Netlify
 <br>
-netlify deploy --prod# react-Todolist
+netlify deploy --prod
+
+
+# react-Todolist
